@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CS Student | Developer | Tech Enthusiast  
+- 🎓 B.Tech in Cyber Security | 📍Gurugram University
 - 💻 Skilled in **Python**, **Java**, **Flutter**, **Dart**, and **R**  
 - 🔭 Currently working on data-driven and mobile development projects  
 - 📈 Interested in analytics, system design, and creative UIs  
