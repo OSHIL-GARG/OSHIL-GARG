@@ -49,7 +49,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/oshilgarg/oshilgarg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 
 
